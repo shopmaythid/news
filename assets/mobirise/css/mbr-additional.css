@@ -5577,6 +5577,47 @@ body {
 .cid-s0O9MbJIbU .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-s0Y5hooxMQ {
+  padding-top: 135px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-s0Y5hooxMQ .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-s0Y5hooxMQ .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-s0Y5hooxMQ .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-s0Y5hooxMQ .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-s0Y5hooxMQ .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-s0Y5hooxMQ .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-s0Y5hooxMQ .card .panel-body {
+  color: #767676;
+}
+.cid-s0Y5hooxMQ .panel-text {
+  color: #000000;
+}
 .cid-s0O9MbJIbU .navbar {
   background: #ffffff;
   transition: none;
