@@ -5612,6 +5612,47 @@ body {
 .cid-s0V2nvGFLN .panel-text {
   color: #000000;
 }
+.cid-s0XQiR7VgU {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-s0XQiR7VgU p {
+  color: #767676;
+}
+.cid-s0XQiR7VgU .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-s0XQiR7VgU .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-s0XQiR7VgU .card .card-header a.panel-title {
+  margin-bottom: 0;
+  margin-top: -1px;
+  font-weight: 500;
+  font-style: normal;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-s0XQiR7VgU .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-s0XQiR7VgU .card .card-header a.panel-title h4 {
+  border: 1px solid #dfdfdf;
+  padding: 1.3rem 2rem;
+  margin-bottom: 0;
+}
+.cid-s0XQiR7VgU .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-s0XQiR7VgU .panel-text {
+  color: #000000;
+}
 .cid-s0O9MbJIbU .navbar {
   background: #ffffff;
   transition: none;
