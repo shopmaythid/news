@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 82,
+    "uniqCompNum": 77,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/08adf646-c4a4-4957-9bdb-d7da9fd90816-128x128.png",
@@ -7838,11 +7838,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"38\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/OHPtOyJmQGE?t=38&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "s14lpnI866",
+          "_anchor": "video3-27",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "video3-27"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7872,11 +7872,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"60\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#000000\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".section-text\" mbr-text><b><i>“Use music to change the world”&nbsp;</i></b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "s14mjyt0nJ",
+          "_anchor": "content9-29",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-29"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7893,11 +7893,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Fast-forward to my first year of high school. I now attended Head-Royce, ranked the 35th best private high school in the country and located just a few minutes from my home. This was the first time I had attended a predominately white institution in a predominantly white neighborhood, but thus far I had not really experienced any of the racism that was so often mentioned in the news. Besides my mother and her family, I was mostly around black kids and black people, even while playing ice hockey, as the local rink constantly promoted diversity in the sport. So I was as excited as ever to take on this new challenge and chapter of my life, but I quickly realized that the world did not quite share the same utopian ideals to which I had become so accustomed in the past.</p><p></p><div>After my third day of school, me along with three friends that I had made, decided to stop by a convenience store after school. One of these friends was black while the other two were white. As we entered the store, the cashier turned to us. “You two”, he said, pointing at me and the other black kid. “Take off your backpacks”. It took me a minute to comprehend what had happened. ‘Why didn’t the other kids have to do that?’, I wondered as I aimlessly sauntered around the store, barely noticing the cashier’s assistant hiding at the end of each aisle, watching and moving with me as I browsed the snacks and pondered this irregularity.</div><div><br></div><div>The very next week, I attended my first hockey tournament outside of California in Chicago, Illinois. Following a goal that I scored in our first game, a large child on the other team got into my face and yelled “Go back to Africa!”. Seconds later, as if he was waiting for his son to initiate the confrontation, the boy’s dad yelled from the balcony, “fucking nigger!”. At the time, I had never actually heard this word said out loud, so my shock was accentuated. I was in awe that things like this could even be said to a child without repercussion. Now two weeks in a row I had become a victim of a racial bias/attack. I began to understand that my privilege was not as exorbitant as once thought.</div><div><br></div><div>Super fast-forward to Columbia University. I had recently graduated from the Taft School, a private boarding school in Watertown, Connecticut mainly comprised of kids from wealthy, old money families. Racism had appeared so frequently by this point that I was numb to its presence, hardly flinching when I walked past the “The South Will Rise Again” banner at a house in downtown Watertown. So my reaction to the killing of Barnard Student Tessa Majors on December 11th was more instinctive than ever. As the news began to break that the murderers had yet to be apprehended, and all that the police knew was that one suspect was wearing a green jacket, a number of friends, all of whom happened to be white, texted and called, exclaiming their fear of the situation through statements explaining that they would never enter Morningside park again and hoped to never encounter a robber in New York. I responded in agreement as I continued to receive these messages. Yet within five minutes of hearing about the news, my black roommate Lani and I turned to each other. “I am never wearing a green jacket again”, we said in unison.</div><div><br></div><div>This, my brothers and sisters, is how I differentiate regular privilege from “white privilege”. Lani and I knew exactly how we would be perceived in this situation. Regardless of my well-to-do background in which my privilege was elevated significantly compared to my black peers, on that day I could think of myself as no better than them, for my fate could very well be identical simply due to my skin color. No resume, CV or transcript, could set me apart from the “thugs” that roamed New York in the eyes of the police. While many students on campus feared being the next victim, me and other black men feared being the first suspects. This idea extends beyond merely the police, and rather applies to all of the aforementioned encounters that I have had in society in which my education, wealth, and home life have meant nothing to those who do not know me. I am black first, and then a personality. But for many white people that navigate this world, this narrative is flipped on its head.</div><div><br></div><div>I hope that although you cannot fully understand what it is like to be black, you can at least try to define people such as myself as more than solely black. It is these types of slight changes that quite frankly make all the difference. I am certainly proud to be an American citizen. But as with every community, there is always more work that may be done. Our diversity of nations and states makes us unique when compared to all other countries across the world, so acknowledging and celebrating these variations in the human experience can only bring us closer as individuals. &nbsp;</div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "s14kkhUqFL",
+          "_anchor": "content1-26",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-26"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7927,6 +7927,33 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-24"
         }
       ]
     }
