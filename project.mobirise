@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Maythid.com News",
-    "currentPage": "index.html",
+    "currentPage": "14-Must-Read-Books-by-Black-Authors.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 180,
+    "uniqCompNum": 181,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/08adf646-c4a4-4957-9bdb-d7da9fd90816-128x128.png",
@@ -10609,26 +10609,26 @@
             "background-color": "@bgColor",
             "@media (min-width: 992px)": {
               ".mbr-figure": {
-                "padding-right": "4rem"
+                "padding-left": "4rem"
               }
             },
             "@media (max-width: 992px)": {
               ".mbr-figure": {
-                "padding-bottom": "1rem"
+                "padding-top": "1rem"
               }
             },
             ".mbr-text": {
               "color": "#000000"
             }
           },
-          "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img-661-436x668.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">My name is Hayley Dennings. I am a junior at Loyola Marymount University in Los Angeles and an active participant in an online book community, mostly on Twitter and YouTube. The murder of George Floyd pushed members of this online book community to be more inclusive towards black creators and authors. One of my friends on Twitter challenged her followers, and anyone else that saw her tweet, to post books featuring black characters or written by black authors. Accepting the challenge, I pulled all of the books authored by black people from my shelves and posted them, encouraging my friends and followers to educate themselves on the black experience. Some of those books I have read and loved, some of those books I plan on reading in order to support the authors and their stories. These are those books.<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "s2bKZ0ma3I",
-          "_anchor": "content6-4r",
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">My name is Hayley Dennings. I am a junior at Loyola Marymount University in Los Angeles and an active participant in an online book community, mostly on Twitter and YouTube. The murder of George Floyd pushed members of this online book community to be more inclusive towards black creators and authors. One of my friends on Twitter challenged her followers, and anyone else that saw her tweet, to post books featuring black characters or written by black authors. Accepting the challenge, I pulled all of the books authored by black people from my shelves and posted them, encouraging my friends and followers to educate themselves on the black experience. Some of those books I have read and loved, some of those books I plan on reading in order to support the authors and their stories. These are those books.</p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/img-661-436x668.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s2d0H6SCbt",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content7-50"
         },
         {
           "_styles": {
